@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adesh1145
-- 👀 I’m interested in coding in python and c language
+- 👀 I’m interested in coding in Java,Python and C language
 - 🌱 I’m currently learning python
 - 📫 How to reach me ... contact +917007765672 or adeshyadav1145@gmail.com
 
