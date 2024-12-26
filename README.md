@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adesh1145
-- 👀 I’m interested in coding in Java,Python and C language
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m Flutter Developer with 1.5+ yrs Exp.
+- - 👀 I’m interested in coding in Java,Python(Django) and C language
 - 📫 How to reach me ... contact +917007765672 or adeshyadav1145@gmail.com
 
 <!---
