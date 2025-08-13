@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adesh1145
-- 🌱 I’m Flutter Developer with 2 yrs Exp.
-- - 👀 I’m interested in coding in Java (Spring Boot),Python(Django) and C language
+- 🌱 I’m Flutter Developer with 2.4+ yrs Exp.
+- - 👀 I’m interested in coding in Flutter Mobile App development, Java (Spring Boot),Python(Django) and C language
 - 📫 How to reach me ... contact +917007765672 or adeshyadav1145@gmail.com
 
 <!---
